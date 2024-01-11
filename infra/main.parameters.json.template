@@ -69,7 +69,7 @@
       "value": ${USE_EXISTING_AOAI}
     },
     "searchServicesSkuName": {
-      "value": "standard"
+      "value": "basic"
     },
     "buildNumber": {
       "value": "${BUILD_NUMBER}"
