@@ -386,3 +386,4 @@ packages-microsoft*
 
 # docker container build artifacts
 app/enrichment/shared_code
+scripts/environments/local_wr.env
